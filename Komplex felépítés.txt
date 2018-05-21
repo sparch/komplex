@@ -1,0 +1,14 @@
+2) Komplex
+- A borítón még a régi témakiírás szerepel
+- A feladatkiírás is még a régi
+- A tartalomjegyzékben az interaktív hálózatok rész Máté sablonjából maradhatott ott. Érdemes újragenerálni a tartalomjegyzéket.
+- A felépítés lehetne egy szinttel részletesebb. Amire gondolok pl. a tervezés és megvalósítási fejezetben:
+3. Tervezés
+3.1 Az alkalmazás funkciói (itt use-case diagrammokkal akarom ismertetni a felhasználók típusait és az általuk használt funkciókat)
+3.2 Az alkalmazás komponensei, fõ felépítése (itt jó a blokk, vagy komponensdiagramm, ugyanaz, amit be is illesztettél)
+3.3 Adatmodell
+3.4 Az alkalmazás tervezett felhasználói felülete (milyen képernyõk lesznek, honnan mi indítható)
+4. Megvalósítás
+4.1 Adatbázis modell megvalósítása SAP adatbázisban
+4.2 Üzleti logika rétege (funkciós modulok)
+4.3 Felhasználói felület (SAPGUI képernyõk, navigációk, stb.)
