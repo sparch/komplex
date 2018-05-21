@@ -1,0 +1,117 @@
+analyst (elemzõ) v. business analyst:
+	felelõssége meggyõzõdni arról
+	hogy a vevõ igényei megfelelõen
+	rögzítettek és megfelelõen doku-
+	mentáltak még a projekt tényleges
+	indulása elõtt, a projekt hozzá-
+	adott értékkel rendelkezik,
+	technikai és üzleti szükségletek
+	dokumentálása,
+
+Change Control Board: a projekt költség-
+	vetésével, igényeivel, idõvona-
+	lával kapcsolatos változtatási
+	igényeket bírálja el
+client (vevõ): a projektet rendelõ; aki
+	kérésére a projekt elindult
+client project manager (vevõ oldali pm):
+	nagyobb projekt esetén a vevõ is
+	kinevezhet pm-et a saját oldalán,
+	aki elsõdleges kontakt lesz
+database admin. (db admin.): a szükséges
+	adatbázisokat és táblákat model-
+	lezõ, megtervezõ és létrehozó 
+	személy
+designer (tervezõ): felelõs az üzleti
+	igényeket kielégítõ megoldás meg-
+	találására és megtervezésére. Is-
+	mernie kell az optimum hatást elé-
+	rõ technológiát.
+developer(fejlesztõ) ~ expert (szakember):
+	együttesen adják a project teamet
+	teljes-és részidõs humán erõfor.
+	felelõsek az
+	-elvégzendõ munka megértéséért
+	-elvégzéséért (költségvetés, idõ,
+	minõség!), dokumentálásért
+	-pm értesítéséért (problémák,
+	kockázatok, minõségügyi esemé-
+	nyek, feladat végrehajtása)
+	-helyzetjelentés, elvárások kezelése
+	egy vagy több funkc. szervezet-
+	bõl is származhatnak
+	
+project manager (pm): 
+	1. a projekt irányítá-
+	sáért felelõs személy. A prob-
+	léma elemzése, projekt céljá-
+	nak meghatározása, az összes
+	projekt komponens és szükséges
+	lépések megtervezése,
+	a költségvetés és végrehajtandó
+	feladatok ütemezése, napi felü-
+	gyelése a végrehajtásnak, 
+	probléma elhárítás, kockázatok
+	kezelése, stb.
+	2. környezet megteremtése a szük-
+	séges aktivitásoknak, erõforrások
+	meghat, megfelelõ résztvevõk ki-
+	jelölése, kommunikáció felsõbb 
+	szintekkel, mérföldkövek kijelö-
+	lése, konfliktusok feloldása,
+	biztosítani hogy a projekt mindig
+	egy irányba haladjon, idõre vé-
+	gezzen és a költségvetésen belül
+	maradjon
+quality manager: a minõség biztosítása
+	egy nagyobb projekt esetén sok 
+	idõt vehet igénybe -> érdemes 
+	qm-t kijelölni
+sponsor (támogató): 
+	1. abszolút fennhatóság-
+	gal rendelkezik a projekt felett.
+	exec. sp: projekt funding, prob-
+	lémamegoldás, hatóköri változta-
+	tások, magasszintû irányítás.
+	proj. sp: exec. sp reprezentálása,
+	nap mint nap stratégiai irányítás,
+	szponzori döntéshozatal \ {komo-
+	lyabb kérdések}
+	2. a legmagasabb szinten támogat-
+	ja a projektet. Feladata a CEOval,
+	fontosabb stakeholderekkel kap-
+	csolattartás, szükséges erõforrá-
+	sok biztosítása, eredmények elfo-
+	gadása, elutasítása.
+stakeholder: a projekt kimenetében érde-
+	kelt ember. Lehetnek belsõ (bel-
+	sõ vevõk, management, adminisztr.
+	stb) vagy külsõk (beszállító, be-
+	fektetõk, kormányz. szerv., stb)
+	steering committee: magasszintû
+	stakeh. + sponsor csoportja -> 
+	stratégiai irányzat vezetése 
+	(guide), erõforrások biztosítása,
+	költségvetés, ütemterv módosítás,
+	változtatások eszközlése
+supplier/vendor (beszállító, eladó): esz-
+	közöket, anyagot, hardwaret, stb
+	biztosítanak jó pézé. 
+tester (tesztesek): a végeredmény kielé-
+	gíti az üzleti igényeket, hiba-
+	mentes
+team leader: nagy projekt esetén szüksé-
+	ges. Közvetlenül a pm-nek jelent.
+	kezdeményez: a cél eléréséhez
+	szükséges aktivitások felé tereli
+	a figyelmet, nem utasít
+	viselkedésével befolyásolja má-
+	sok teljesítményét, segít elér-
+	ni az individuális maximumot,
+	információt gyûjt és továbbít
+	amennyivel megfelelõ kompetenci-
+	ával rendelkezik, úgy részt vesz
+	a munkában			
+	
+	lésév
+	
