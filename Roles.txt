@@ -3,10 +3,11 @@ analyst (elemzõ) v. business analyst:
 	hogy a vevõ igényei megfelelõen
 	rögzítettek és megfelelõen doku-
 	mentáltak még a projekt tényleges
-	indulása elõtt, a projekt hozzá-
+	indulása elõtt
+	a projekt hozzá-
 	adott értékkel rendelkezik,
 	technikai és üzleti szükségletek
-	dokumentálása,
+	dokumentálása
 
 Change Control Board: a projekt költség-
 	vetésével, igényeivel, idõvona-
