@@ -1,0 +1,11 @@
+Az ABAP (Advanced Business Application Programming) az SAP által kifejlesztett magasszintű, 4GL, típusos, procedurális, interpreteres programozási nyelv, amelynek segítségével SAP környezetben hozhatunk létre különböző üzleti alkalmazásokat. Az SAP forráskódja vevőik számára nyíltan elérhető, azt bármikor módosíthatják vagy bővíthetik az ABAP nyelv segítségével.
+Az SAP R/1 és R/2 idején riportok megírására szolgált, ekkor az SAP rendszert főleg C nyelven fejlesztették.
+Az SAP R/3 megjelenését követően az ABAP nyelvet is fejlesztették és így jött létre az ABAP/4, utalva 4. generációs programozási nyelv létére. Ettől kezdve a rendszermagon kívül minden alkalmazást és fejlesztés ABAP nyelven írtak meg. A '90-es évek végére megjelent az ABAP Object, amely az objektumorientált paradigmáknak megfelelő továbbfejlesztése volt a nyelvnek.
+A fejlesztés és a programok futása  egyaránt az applikációs szerveren fut, így éri el a platformfüggetlenséget a nyelv.
+A nyelvben integráltan jelennek meg az adatbázis kezelő műveletek az OpenSQL-nek megfelelő módon.
+
+Fejlesztői eszközök
+Az ABAP nyelvet főként az SAP fejleszti. Programkód írására a nyílt kódú Java fejlesztői környezet, az Eclipse-ben használt pluginok vagy az SAP rendszerbeli Workbench (Wikipédia - HU + EN!!! https://www.tutorialspoint.com/sap/sap_programming_language.htm) tranzakció segítségével van lehetőségünk. Ezek egészen a kód megírásától az automatizált tesztelésig nyújtanak szükséges eszközöket.
+
+Szintaktikáról?
+
